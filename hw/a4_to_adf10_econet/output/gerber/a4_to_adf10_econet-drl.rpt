@@ -1,0 +1,28 @@
+Drill report for a4_to_adf10_econet.kicad_pcb
+Created on 2025-02-21T17:28:11+0000
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'a4_to_adf10_econet-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.500mm  0.0197"  (30 holes)
+    T2  0.800mm  0.0315"  (52 holes)
+    T3  1.000mm  0.0394"  (44 holes)
+    T4  1.500mm  0.0591"  (5 holes)
+    T5  1.600mm  0.0630"  (1 hole)
+    T6  2.500mm  0.0984"  (1 hole)
+    T7  3.500mm  0.1378"  (1 hole)
+
+    Total plated holes count 134
+
+
+Drill file 'a4_to_adf10_econet-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

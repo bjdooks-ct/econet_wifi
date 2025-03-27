@@ -1,0 +1,19 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C10, C3, C4, C5, C8",0603,6,100nF,C14663
+"C2, C6, C7, C9",0805,4,10uF,C440198
+"D1, D2, D3",0603,3,LED_Small_Filled,C2286
+"J1, J2",PinHeader_2x13_P2.00mm_Vertical,2,Conn_02x13_Odd_Even,
+"J10, J3",PinSocket_1x05_P2.54mm_Vertical,2,Conn_01x05_Pin,
+"J11, J5, J6",PinHeader_1x03_P2.54mm_Vertical,3,Conn_01x03,
+J4,PinHeader_1x17_P2.54mm_Vertical,1,Conn_01x17_Pin,
+J7,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+"J8, J9",PinHeader_1x02_P2.54mm_Vertical,2,Conn_01x02,
+"MH1, MH2, MH3, MH4, MH5, MH6",TestPoint_Plated_Hole_D2.0mm,6,MH 1.5mm,
+"Q1, Q2",SOT-23,2,AO3401A,C15127
+"R1, R10, R11, R12, R2, R4",0603,6,100K,C25803
+"R13, R5, R6",0603,3,1K,C21190
+"R3, R7, R8, R9",0603,4,0R/FB,C21189
+"TP1, TP2, TP3",TestPoint_Pad_D1.0mm,3,TestPoint_Small,
+TP4,TestPoint_Pad_D1.0mm,1,TP,
+"U1, U2",SOIC-20W_7.5x12.8mm_P1.27mm,2,74CBT3245ADWR,C2860279
+U4,SOT-143,1,MAX811TDB4RG,C19723717
